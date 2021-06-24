@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.tabs.enabled": true,
+  "editor.formatOnSave": true,
+  "eslint.codeActionsOnSave.mode": "all",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
